@@ -12,6 +12,8 @@ public class PracticePage {
 		
 		System.out.println("Practice 4");
 		
+		System.out.println("Practice 5");
+		
 		
 
 	}
