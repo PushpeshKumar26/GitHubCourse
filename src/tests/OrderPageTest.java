@@ -6,6 +6,9 @@ public class OrderPageTest {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello from OrderPageTest");
+		
+		System.out.println("assertion");
+		
 
 	}
 
