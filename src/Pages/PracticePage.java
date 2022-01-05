@@ -7,6 +7,8 @@ public class PracticePage {
 		System.out.println("Practice 1");
 		
 		System.out.println("Practice 2");
+		
+		System.out.println("Practice 3");
 
 	}
 
